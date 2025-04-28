@@ -2,7 +2,7 @@
 
 A weather application built with JavaScript and React that displays current weather conditions for any city worldwide.
 
-![Weather App Screenshot](/Users/hasan/Downloads/Untitled.png "Weather App Screenshot")
+![Weather App Screenshot](screenshot/torontoweather.png "Weather App Screenshot")
 
 ## Features
 
